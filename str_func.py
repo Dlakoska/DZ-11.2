@@ -4,5 +4,5 @@ def make_uppercase(string):
 
 
 def make_titlecase(string):
-    """Делает заглавными первые буквы слов, вот это даааа"""
+    """Делает заглавными первые буквы слов, типо что то поменяли"""
     return string.title()
